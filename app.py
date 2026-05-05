@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Page Config
-st.set_page_config(page_title="Ultra Premium Dashboard", layout="wide")
+st.set_page_config(page_title=" E-commerce Dashboard", layout="wide")
 
 # Custom CSS (Advanced UI)
 st.markdown("""
