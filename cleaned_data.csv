@@ -1,0 +1,8 @@
+title,price,category,rating,price_category,value_score
+Product A,45,electronics,4.2,Budget,0.093
+Product B,120,electronics,4.5,Premium,0.037
+Product C,75,clothing,4.0,Mid,0.053
+Product D,200,clothing,4.8,Luxury,0.024
+Product E,60,electronics,4.1,Mid,0.068
+Product F,30,clothing,3.9,Budget,0.13
+Product G,150,electronics,4.6,Premium,0.030
