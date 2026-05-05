@@ -33,7 +33,7 @@ h1, h2, h3 {
 df = pd.read_csv("cleaned_data.csv")
 
 # HEADER
-st.title("🚀 Ultra Premium E-commerce Dashboard")
+st.title("🚀E-commerce-Analysis Dashboard")
 
 # KPI Cards
 col1, col2, col3 = st.columns(3)
