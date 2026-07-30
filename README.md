@@ -4,6 +4,8 @@ An interactive **E-Commerce Sales Analysis Dashboard** built using **Streamlit**
 
 The dashboard provides valuable business insights through interactive charts, KPIs, and filtering options, helping users analyze sales performance, customer behavior, and product trends.
 
+Live Demo: [https://yashika05-ai-ecommerce-analysis-app-phlbeq.streamlit.app](https://yashika05-ai-ecommerce-analysis-app-phlbeq.streamlit.app)
+
 ---
 
 ## 🎓 Technical Training Project
